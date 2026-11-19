@@ -14,13 +14,13 @@ Aprendo construindo: venho desenvolvendo fluxos de atendimento com agentes de IA
 
 ## 📂 Projetos e estudos de caso
 
-### Assistente de atendimento com IA
+### [Assistente de atendimento com IA — estudo de caso n8n](https://github.com/adolfolhv2-79/assistente-ia-n8n)
 Arquitetura de atendimento via WhatsApp com classificação de mensagens, uso de IA, contexto de conversa e integração com operações de agendamento. A documentação pública preserva a privacidade dos envolvidos e não inclui configurações operacionais.
 
 ### Assistente de informações para evento cultural
 Automação de atendimento a participantes, com informações de programação, tratamento de diferentes tipos de mensagem e integração entre serviços.
 
-*Os repositórios de demonstração estão sendo preparados. Não serão publicados dados pessoais, credenciais ou arquivos operacionais originais.*
+*Um estudo de caso documental está disponível; outros materiais de portfólio estão em preparação. Não serão publicados dados pessoais, credenciais ou arquivos operacionais originais.*
 
 ## 🎯 Meu objetivo
 
